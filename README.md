@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+I am practicing with GitHub, and frankly I think I have it figured out. On the offchance I do not, please be patient with me. Thank you
+
+<!-- This is how you
+can make multiline comments
+within
+GitHub
+I wonder i there is a documentation area for text features within GitHubs text editot.
+-->
 
 <!--
 **coromanillos/coromanillos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
