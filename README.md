@@ -1,5 +1,4 @@
 ### Hi there 👋 
-I am practicing with GitHub, and frankly I think I have it figured out. On the offchance I do not, please be patient with me. Thank you
 
 <!-- This is how you
 can make multiline comments
